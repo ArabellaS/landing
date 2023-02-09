@@ -1,0 +1,24 @@
+.footer {
+  width: 100%;
+  height: 120px;
+  background-color: #FFFDD0;
+  padding-top: 25px;
+  margin-top: 45px;
+  text-align: center;
+}
+
+.footer .socials {
+  margin: auto;
+  width: 70%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer a {
+  color: #EC5800;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.footer p {
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.container {
+  margin-top: -140px;
+  margin-left: 40px;
+  width: 80%;
+}
+
+.container a {
+  color: white;
+  background-color: #FF5800;
+  border-radius: 10px;
+  padding: 8px;
+  font-size: 18px;
+  font-weight:600;
+}
+
+.container h1 {
+  font-size:xx-large;
+  font-weight: bold;
+  color: #F04A00;
+}
+
+.container h2 {
+  margin-bottom: 40px;
+  color: #F94D00;
+}
